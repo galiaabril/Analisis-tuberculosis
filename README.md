@@ -18,7 +18,7 @@ hacia las metas de la ONU para 2025.
 
 ## Herramientas
 
-Python · Pandas · Seaborn · Plotly · Google Colab
+Google Colab · Python
 
 ## Autora
 
